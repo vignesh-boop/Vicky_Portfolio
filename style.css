@@ -6,6 +6,7 @@
 }
 body{
  font-family: "Poppins", sans-serif;
+  
 }
 html{
     scroll-behavior:smooth;
@@ -384,4 +385,7 @@ article .icon {
   footer p {
     text-align: center;
   }
-
+.logoHead{
+     font-family: font	'Bebas Neue', cursive;
+     font-size: xx-large;
+}
